@@ -1,0 +1,11 @@
+﻿.vs
+Recruitment.Application/obj
+Recruitment.Application/bin
+Recruitment.Api/bin
+Recruitment.Api/obj
+Recruitment.Common/bin
+Recruitment.Data/bin
+Recruitment.Data/obj
+Recruitment.WebApp/bin
+Recruitment.WebApp/obj
+Recruitment.Common/obj
